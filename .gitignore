@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Firebase cache
+.firebase/
+
+# Build outputs
+.next/
+out/
+build/
+dist/
